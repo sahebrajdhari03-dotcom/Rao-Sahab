@@ -19,7 +19,7 @@ LOGGER_ID = int(getenv("LOGGER_ID", -1002584168578))
 OWNER_ID = int(getenv("OWNER_ID", 7902621687))
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/rockStar378/Kittu_kavya",)
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/sahebrajdhari03-dotcom/Rao-Sahab",)
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
